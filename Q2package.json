@@ -1,0 +1,19 @@
+{
+    "name": "cookie-visit-counter",
+    "version": "1.0.0",
+    "description": "A Node.js project to count visits using cookies",
+    "main": "Q2.js",
+    "scripts": {
+      "start": "node Q2.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "cookie-parser": "^1.4.6"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
